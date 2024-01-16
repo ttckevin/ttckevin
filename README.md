@@ -108,6 +108,11 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
+  <a href="https://www.postgresql.org" target="_blank"> 
+  <img src="https://img.shields.io/badge/postgres-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="postgres"/>
+ </a>
+
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
